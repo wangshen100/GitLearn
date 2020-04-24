@@ -11,6 +11,7 @@ git reset 还可以追会最先的版本，当你回溯上一版本是，当前�
 使用  git reset --hard 最新版本号（前5个数字一般就够了）   即可回到最新状态
 git reflog  --用来显示记录你的每一次命令---也能找到最新的的版本号（moving to 版本号）
 git checkout --文件名  把该文件在工作区的修改全部撤销
+ cat .gitconfig  查看用户信息（系统用户在home（cd ~）目录下，项目用户在该项目下）
 
 
 
